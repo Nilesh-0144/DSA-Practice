@@ -7,3 +7,5 @@ for i in range(1,len(arr)):
 arr[len(arr)-1]=temp
 
 print(arr)
+
+
